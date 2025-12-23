@@ -45,3 +45,5 @@ func main() {
 
 	fmt.Println("Valid card numbers:", validCards)
 }
+
+// https://docs.google.com/spreadsheets/d/1-SkLHbmunUw9BXN8r4AR190Kh2f2Gvl__bpmcBphmpk/edit?usp=sharing
