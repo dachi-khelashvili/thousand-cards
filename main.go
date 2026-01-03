@@ -47,3 +47,4 @@ func main() {
 }
 
 // https://docs.google.com/spreadsheets/d/1-SkLHbmunUw9BXN8r4AR190Kh2f2Gvl__bpmcBphmpk/edit?usp=sharing
+// https://it-tools.tech/encryption
