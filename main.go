@@ -48,3 +48,4 @@ func main() {
 
 // https://docs.google.com/spreadsheets/d/1-SkLHbmunUw9BXN8r4AR190Kh2f2Gvl__bpmcBphmpk/edit?usp=sharing
 // https://it-tools.tech/encryption
+// https://drive.google.com/drive/folders/1jcLnVhfpyvY4_5KBX6Vgd3nWw6ih-lNo?usp=drive_link
